@@ -1,2 +1,2 @@
-# trust-processes
-A documentation log on how we handle basic processes at Superset
+# Superset's Trust Processes
+A documentation repository on how we handle processes at Superset
